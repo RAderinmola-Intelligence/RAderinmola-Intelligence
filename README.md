@@ -11,12 +11,12 @@ with a background in customer intelligence, market intelligence and analytics ac
 - Data analytics and BI: Python, SQL, Power BI
 
 ## Selected work
-- **Back-test of an early-warning indicator on public data**: planned
-- "first test found no evidence sentiment improves onset warning; follow-up pre-registered": planned
+**[ifrmef-backtest](https://github.com/RAderinmola-Intelligence/ifrmef-backtest)**: reproducible back-test of whether consumer sentiment improves early warning of financial stress, using public data. First test found no evidence of improvement; a follow-up is pre-registered in the repository.
+- **Reading notes on Fed, FSOC and IMF financial-stability reports**: planned
 
 ## Writing and research
-- BusinessDay: "As Financial Risks Evolve, Aderinmola Pushes for Behaviour-Based Oversight" — [link]
-- ResearchGate: [https://www.researchgate.net/profile/Robert-Aderinmola?ev=hdr_xprf]
+ BusinessDay: [As Financial Risks Evolve, Aderinmola Pushes for Behaviour-Based Oversight](https://businessday.ng/life/article/as-financial-risks-evolve-aderinmola-pushes-for-behaviour-based-oversight/)
+- [ResearchGate](https://www.researchgate.net/profile/Robert-Aderinmola)
 
 ## Connect
 - Website: [royaderinmola.netlify.app](https://royaderinmola.netlify.app/)
