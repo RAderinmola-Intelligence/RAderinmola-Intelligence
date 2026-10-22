@@ -12,7 +12,7 @@ with a background in customer intelligence, market intelligence and analytics ac
 
 ## Selected work
 - **Back-test of an early-warning indicator on public data**: planned
-- **Reading notes on Fed, FSOC and IMF financial-stability reports**: planned
+- "first test found no evidence sentiment improves onset warning; follow-up pre-registered": planned
 
 ## Writing and research
 - BusinessDay: "As Financial Risks Evolve, Aderinmola Pushes for Behaviour-Based Oversight" — [link]
