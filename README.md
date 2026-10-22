@@ -1,8 +1,8 @@
-# Roy Aderinmola # Robert Aderinmola # RAderinmola 
+# Roy Aderinmola
 
-Analytics and strategy professional working on **early-warning analytics for financial stability**: how behavioral and market data can give financial institutions earlier, better-validated signals of emerging risk.
+*Also published as Robert Aderinmola.*
 
-with a background in customer intelligence, market intelligence and analytics across banking, telecom, trading & investment and fintech.
+Analytics and strategy professional working on **early-warning analytics for financial stability**: how behavioral and market data can give financial institutions earlier, better-validated signals of emerging risk. Background in customer intelligence, market intelligence and analytics across banking, telecom, trading and investment, and fintech.
 
 ## Focus areas
 - Predictive analytics for financial-risk monitoring
